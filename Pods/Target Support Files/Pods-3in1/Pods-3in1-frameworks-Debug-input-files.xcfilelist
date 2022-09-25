@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-3in1/Pods-3in1-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ChameleonFramework/ChameleonFramework.framework
+${BUILT_PRODUCTS_DIR}/SwipeCellKit/SwipeCellKit.framework
